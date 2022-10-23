@@ -1,1 +1,5 @@
-"# Corner-Groceries" 
+This project analyzes the text records that generate throughout the day. It lists items that are purchased in chronological order from the time the store opens till the time the store closes. It also produces a number representing how many times a specific item was purchased in a given day. It produce a text-based histogram listing all items purchased in a given day, along with a representation of the number of times each item was purchased. This code is using both C++ language and Python.
+I believe I did the Python coding pretty well because I'm a lot more familiar with this language and it really showed in this project.
+I could've enhanced my code on the cases. There could've been a different I used to make it a lot more cleaner. It would've been less code which would make it shorter.
+The skills form this project that would be transferrable to other course work is definetly being able to use Python and C++ in Visual Studios
+I made this project very readable and clean so it can be easy for people to understand and analyze.
